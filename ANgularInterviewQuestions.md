@@ -26,3 +26,7 @@
 # https://github.com/sudheerj/angular-interview-questions 
 
 use above link for 100 important questions of angular
+
+# https://github.com/sudheerj/javascript-interview-questions
+
+use above linkg for js interview questions
