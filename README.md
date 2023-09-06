@@ -5,6 +5,7 @@
  # ng add @angular/material
  # ng g c <componen-name>
  # ng g s <service-name>
+ # npm i json-server
  
 # add in the head tag
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
