@@ -21,7 +21,11 @@
 #############
 
 1 custome directives in angular
+
 2 impure pipe and pure pipe 
+
 3 diff component and directive
+
 4 template in angular
+
 5 decorator in angular
